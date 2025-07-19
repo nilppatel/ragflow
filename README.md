@@ -355,7 +355,7 @@ docker build --platform linux/amd64 -f Dockerfile -t infiniflow/ragflow:nightly 
    bash docker/launch_backend_service.sh
    ```
 
-7. Install frontend dependencies
+7. Install frontend dependencies:
 
    ```bash
    cd web
