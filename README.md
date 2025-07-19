@@ -362,7 +362,7 @@ docker build --platform linux/amd64 -f Dockerfile -t infiniflow/ragflow:nightly 
    npm install
    ```
 
-8. Launch frontend service
+8. Launch frontend service:
 
    ```bash
    npm run dev
